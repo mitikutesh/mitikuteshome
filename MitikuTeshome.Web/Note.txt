@@ -1,0 +1,5 @@
+﻿-datatables.net
+-datatables.net-bs
+eve-raphael
+ion.rangeSlider
+jquery-ui => jquery-ui-bootstrap

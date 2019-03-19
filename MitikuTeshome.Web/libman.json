@@ -1,0 +1,142 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-colorpicker@2.5.3",
+      "destination": "wwwroot/lib/bootstrap-colorpicker/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap-datepicker@1.8.0",
+      "destination": "wwwroot/lib/bootstrap-datepicker/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap-daterangepicker@3.0.3",
+      "destination": "wwwroot/lib/bootstrap-daterangepicker/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap-timepicker@0.5.2",
+      "destination": "wwwroot/lib/bootstrap-timepicker/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "bootstrap-slider@10.6.1",
+      "destination": "wwwroot/lib/bootstrap-slider/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "Chart.js@2.7.3",
+      "destination": "wwwroot/lib/Chart.js/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "ckeditor@4.11.3",
+      "destination": "wwwroot/lib/ckeditor/"
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "fastclick@1.0.6",
+  "destination": "wwwroot/lib/fastclick/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "flot@0.8.3",
+  "destination": "wwwroot/lib/flot/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "font-awesome@5.7.2",
+  "destination": "wwwroot/lib/font-awesome/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "fullcalendar@3.10.0",
+  "destination": "wwwroot/lib/fullcalendar/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "inputmask@4.0.6",
+  "destination": "wwwroot/lib/inputmask/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "ionicons@4.4.8",
+  "destination": "wwwroot/lib/ionicons/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jQuery-Knob@1.2.13",
+  "destination": "wwwroot/lib/jQuery-Knob/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jQuery-slimScroll@1.3.8",
+  "destination": "wwwroot/lib/jQuery-slimScroll/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jquery-sparklines@2.1.2",
+  "destination": "wwwroot/lib/jquery-sparklines/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jquery-ui-bootstrap@0.5pre",
+  "destination": "wwwroot/lib/jquery-ui-bootstrap/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "jvectormap@2.0.4",
+  "destination": "wwwroot/lib/jvectormap/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "mocha@6.0.2",
+  "destination": "wwwroot/lib/mocha/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "moment.js@2.24.0",
+  "destination": "wwwroot/lib/moment.js/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "morris.js@0.5.1",
+  "destination": "wwwroot/lib/morris.js/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "pace@1.0.2",
+  "destination": "wwwroot/lib/pace/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "raphael@2.2.7",
+  "destination": "wwwroot/lib/raphael/"
+}
+,
+{
+  "provider": "cdnjs",
+  "library": "select2@4.0.5",
+  "destination": "wwwroot/lib/select2/"
+}
+]
+}
